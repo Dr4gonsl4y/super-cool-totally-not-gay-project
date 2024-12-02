@@ -1,0 +1,12 @@
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\bin\Debug\net8.0\ttrpg-lib.deps.json
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\bin\Debug\net8.0\ttrpg-lib.dll
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\bin\Debug\net8.0\ttrpg-lib.pdb
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\obj\Debug\net8.0\ttrpg-lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\obj\Debug\net8.0\ttrpg-lib.AssemblyInfoInputs.cache
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\obj\Debug\net8.0\ttrpg-lib.AssemblyInfo.cs
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\obj\Debug\net8.0\ttrpg-lib.csproj.CoreCompileInputs.cache
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\obj\Debug\net8.0\ttrpg-lib.sourcelink.json
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\obj\Debug\net8.0\ttrpg-lib.dll
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\obj\Debug\net8.0\refint\ttrpg-lib.dll
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\obj\Debug\net8.0\ttrpg-lib.pdb
+C:\Users\Gonsly\OneDrive\Dokumente\GitHub\super-cool-totally-not-gay-project\Big Solution\ttrpg-lib\obj\Debug\net8.0\ref\ttrpg-lib.dll

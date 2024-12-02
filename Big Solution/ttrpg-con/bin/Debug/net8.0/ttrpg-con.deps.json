@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ttrpg-con/1.0.0": {
+        "dependencies": {
+          "ttrpg-lib": "1.0.0"
+        },
+        "runtime": {
+          "ttrpg-con.dll": {}
+        }
+      },
+      "ttrpg-lib/1.0.0": {
+        "runtime": {
+          "ttrpg-lib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ttrpg-con/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ttrpg-lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

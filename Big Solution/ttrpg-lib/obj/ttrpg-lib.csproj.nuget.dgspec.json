@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gonsly\\source\\repos\\Big Solution\\ttrpg-lib\\ttrpg-lib.csproj": {}
+    "C:\\Users\\Gonsly\\OneDrive\\Dokumente\\GitHub\\super-cool-totally-not-gay-project\\Big Solution\\ttrpg-lib\\ttrpg-lib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gonsly\\source\\repos\\Big Solution\\ttrpg-lib\\ttrpg-lib.csproj": {
+    "C:\\Users\\Gonsly\\OneDrive\\Dokumente\\GitHub\\super-cool-totally-not-gay-project\\Big Solution\\ttrpg-lib\\ttrpg-lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gonsly\\source\\repos\\Big Solution\\ttrpg-lib\\ttrpg-lib.csproj",
+        "projectUniqueName": "C:\\Users\\Gonsly\\OneDrive\\Dokumente\\GitHub\\super-cool-totally-not-gay-project\\Big Solution\\ttrpg-lib\\ttrpg-lib.csproj",
         "projectName": "ttrpg-lib",
-        "projectPath": "C:\\Users\\Gonsly\\source\\repos\\Big Solution\\ttrpg-lib\\ttrpg-lib.csproj",
+        "projectPath": "C:\\Users\\Gonsly\\OneDrive\\Dokumente\\GitHub\\super-cool-totally-not-gay-project\\Big Solution\\ttrpg-lib\\ttrpg-lib.csproj",
         "packagesPath": "C:\\Users\\Gonsly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gonsly\\source\\repos\\Big Solution\\ttrpg-lib\\obj\\",
+        "outputPath": "C:\\Users\\Gonsly\\OneDrive\\Dokumente\\GitHub\\super-cool-totally-not-gay-project\\Big Solution\\ttrpg-lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
